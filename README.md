@@ -3,5 +3,5 @@
 ##Tecnologias utlizadas
 
 - HTML
--CSS
--JavaScript
+- CSS
+- JavaScript
